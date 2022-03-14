@@ -1,0 +1,104 @@
+.img{
+    background-position: center;
+    background-image: url(ba.jpg);background-repeat: no-repeat;
+    background-size: cover;
+    height: 640px;
+    font-family: sans-serif;
+}
+.feed{
+    width: 700px;
+    background-color: rgba(0,0,0,0.4);
+    margin: auto;
+    color:#ffffff;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+ }
+.main{
+    text-align: center;
+    background-color: rgba(0,0,0,0.6);
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    border-radius: 10px 10px 0 0;
+}
+.heading{
+    margin: 10px;
+    font-size:22px ;
+    color:white;
+}
+.in{
+    margin: 10px;
+    font-size:22px ;
+    color:white;
+}
+.name{
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700px;
+    color: white;
+    }
+    
+
+.email{
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700px;
+    color: white;
+    
+}
+
+.age{
+    margin-left: 450px;
+    margin-top: -140px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700px;
+    color: white;
+    
+}
+.phone{
+    margin-left: 450px;
+    margin-top: 30px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700px;
+    color: white;
+    
+}
+.msg{
+    margin-left:80px ;
+    margin-top: 30px;
+    margin-left:110px ;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 700px;
+    color: white;
+}
+.add{
+    width: 500px;
+    height: 120px;
+    margin: 0 0 0 30px;
+}
+.btn{
+    position: relative;
+    background-color: #089784;
+    color: white;
+    left: -250px;
+    top: 40px;
+    line-height: 35px;
+    border-radius: 5px;
+    padding: 0 40px;
+    font-size: 22px;
+    width: 160px;
+    margin-left: 470px ;
+}
+.btn:hover{
+        background-color: #043d1e;
+}
+
+
